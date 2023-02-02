@@ -9,9 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@firebase/firestore": "^3.8.1",
+    "@headlessui/react": "^1.7.8",
+    "@heroicons/react": "^2.0.14",
     "@next/font": "13.1.6",
+    "antd": "^5.1.7",
+    "firebase": "^9.16.0",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-calendar-icon": "^0.10.0",
+    "react-dom": "18.2.0",
+    "react-modal": "^3.16.1",
+    "react-social-icons": "^5.15.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
   }
 }
